@@ -17,7 +17,7 @@
 
 1. 本プラグインのダウンロード
    - 本リポジトリの `Releases` よりダウンロードが可能です  
-      - 対象ファイル： PeopleFlowSim_v1_0_0.zip  
+      - 対象ファイル： PeopleFlowSim_<バージョン番号>.zip  
 2. UnrealEngine本体の`Engine\Plugins`にダウンロードしたプラグインを解凍
    - UnrealEngineのインストール先がデフォルトの場合、`C:\Program Files\Epic Games\UE_4.27\Engine\Plugins`に解凍
    - 解凍後、PeopleFlowSimフォルダが以下のフォルダ構成になっていることを確認  
