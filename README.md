@@ -5,7 +5,7 @@
 また、本プラグインが提供するGUIを利用することで、専門の技術者以外でもシミュレーションの実行が行えるようになっています。
 
 本プラグイン導入後の画面    
-![](./Documentation/images/readme/sim3.png)
+<img src="./Documentation/images/readme/sim3.png" width="600">
 
 ## 機能概要
 本プラグインは1万人規模の人流シミュレーションを実行するためのツールです。本プラグインには主に次に示す5つの機能が含まれています。  
@@ -25,10 +25,10 @@
 ## シミュレーションシナリオ実行までの流れ
 
 シミュレーション実行の流れ  
-![](./Documentation/images/readme/sim1.png)
+<img src="./Documentation/images/readme/sim1.png" width="800">
 
 シミュレーション実行による人流の可視化の様子  
-![](./Documentation/images/readme/sim2.png)
+<img src="./Documentation/images/readme/sim2.png" width="400">
 
 ## 本プラグインの構成
 ```
