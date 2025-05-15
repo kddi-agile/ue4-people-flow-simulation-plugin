@@ -68,4 +68,4 @@ OS: Windows10以降
 営利・非営利を問わず事業利用をする場合、別途KDDI株式会社との間で、本プラグインの利用許諾契約（有償）を締結しなければなりません。
 
 ## 本プラグインに関するお問い合わせ
-準備中
+[こちら](https://www.kddi.com/cgi-bin/receipt.cgi?form_name=business_otoiawase&mode=input&release_id=business_otoiawase) より、「サービスカテゴリー」は「その他」、「サービス・ソリューション」は「3D人流シミュレーション」を選択してお問い合わせをお願いいたします。
